@@ -152,6 +152,14 @@
             "shaderAssetId": null
           },
           "id": "0"
+        },
+        {
+          "type": "Behavior",
+          "config": {
+            "behaviorName": "LevelBehavior",
+            "propertyValues": {}
+          },
+          "id": "1"
         }
       ],
       "position": {
@@ -196,6 +204,14 @@
             "shaderAssetId": null
           },
           "id": "0"
+        },
+        {
+          "type": "Behavior",
+          "config": {
+            "behaviorName": "PlayerBehavior",
+            "propertyValues": {}
+          },
+          "id": "1"
         }
       ],
       "position": {
